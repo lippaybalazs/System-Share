@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemShare Client", "SystemShare\SystemShare Client.csproj", "{066FEB2A-69ED-43CC-A32F-3FC719268723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066FEB2A-69ED-43CC-A32F-3FC719268723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066FEB2A-69ED-43CC-A32F-3FC719268723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066FEB2A-69ED-43CC-A32F-3FC719268723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066FEB2A-69ED-43CC-A32F-3FC719268723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9F2F58-D471-4FC0-A1BA-7013CE6E7EFD}
+	EndGlobalSection
+EndGlobal

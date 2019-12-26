@@ -1,0 +1,24 @@
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.exe.config
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.exe
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.pdb
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csprojAssemblyReference.cache
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.Arrangement.resources
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.MainForm.resources
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.Properties.Resources.resources
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.SystemShareForm.resources
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csproj.GenerateResource.cache
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csproj.CoreCompileInputs.cache
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.exe
+C:\Users\Lippay Balazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.pdb
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.exe.config
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.exe
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\bin\Debug\SystemShare.pdb
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csprojAssemblyReference.cache
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.Arrangement.resources
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.MainForm.resources
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.Properties.Resources.resources
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.SystemShareForm.resources
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csproj.GenerateResource.cache
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.csproj.CoreCompileInputs.cache
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.exe
+C:\Users\LippayBalazs\Desktop\Programok\C#\Szakvizsga4\WinHost\SystemShare\SystemShare\obj\Debug\SystemShare.pdb
