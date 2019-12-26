@@ -2,7 +2,7 @@
 
 System Share is (at the moment) a windows application that allows the user to merge the interface of multiple computers on a network.
 
-The user needs ONE keyboard and ONE mouse to control any number of computers. 
+The user needs ONE keyboard and ONE mouse to control any number of computers.
 Copy/Paste supported for UTF-8 text format.
 
 System Share is currently free, you are only asked to share it with others.
